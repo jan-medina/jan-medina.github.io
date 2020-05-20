@@ -1,8 +1,5 @@
 ---
-title: "Estimating Formation Mechanisms and Degree Distributions in Mixed Attachment Networks"<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/1200px-PDF_file_icon.svg.png"
-  width="18"
-  height="18"
-  style="float:left;"> 
+title: "Estimating Formation Mechanisms and Degree Distributions in Mixed Attachment Networks"
 collection: publications
 permalink: /publication/estimating
 date: 2019-05-02
