@@ -5,15 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-## How to use this page
+## Research Snapshot
 
-This section is intentionally simple:
+My publications reflect a blend of **applied mathematics, network science, algorithmic modeling, and computational biology** that complements my current work in scalable AI and data systems.
+{: .text-justify}
 
 {% if author.googlescholar %}
-- 🔎 **Google Scholar:** full publication and citation profile.
+- 🔎 **Google Scholar (full citation profile):** <a href="{{author.googlescholar}}">{{author.googlescholar}}</a>
 {% endif %}
-- 📄 **This page:** selected publications with direct links and recommended citation text.
-- 🧭 **Quick review for recruiters:** each entry highlights venue, year, abstract preview, and paper link.
+- 📄 **This page:** curated list with direct publication links and recommended citations.
+- 🤝 **For recruiters/hiring managers:** these publications demonstrate depth in quantitative reasoning, model design, and end-to-end technical execution.
 
 ## Selected Publications
 
