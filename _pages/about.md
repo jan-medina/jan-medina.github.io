@@ -10,19 +10,52 @@ redirect_from:
 
 ## About Me
 
-My name is Jan Alejandro Medina López, and I hold a Doctorate in Engineering and Applied Sciences from [Pontificia Universidad Javeriana Cali](https://www.javerianacali.edu.co). My passion for mathematics, artificial intelligence, and network science has driven me to explore and contribute to various research and development fields.
-
-Currently, I work as a Fullstack Developer at [Brand Guarde](https://www.brandguarde.com/), where I have the opportunity to apply my knowledge in developing innovative solutions for our clients.
+I am a Tech Lead and Engineer specialized in distributed systems, scalable data platforms, and production-grade infrastructure, with a strong academic background in applied mathematics, computer science, machine learning, and network science.
 {: .text-justify}
+
+Throughout my career, I have designed, optimized, and operated large-scale systems supporting data-intensive and production-critical workloads across cloud environments. My experience includes distributed data processing, backend platform architecture, orchestration workflows, observability, performance optimization, and reliability engineering for high-volume systems.
+{: .text-justify}
+
+My work connects software engineering, data infrastructure, and machine learning systems. I am particularly interested in building reliable platforms around AI applications, including LLM evaluation workflows, AI observability, multi-agent architectures, production ML systems, and scalable data pipelines.
+{: .text-justify}
+
+I currently work as a Tech Lead and Engineer focused on distributed data systems, analytics infrastructure, and scalable platform engineering at [Brand Guarde](https://www.brandguarde.com/).
+{: .text-justify}
+
+## Current Focus
+
+- AI Systems Engineering
+- ML Infrastructure
+- LLM Evaluation Platforms
+- Distributed Data Systems
+- Production ML Workflows
+- Observability and Reliability Engineering
+- Multi-Agent Architectures
+- Scalable Analytics Platforms
+
+## Selected Engineering Themes
+
+- Designing reliable systems around data-intensive and AI-enabled workloads
+- Building scalable infrastructure for analytics, ML, and GenAI applications
+- Improving observability, performance, and operational reliability in production systems
+- Connecting research depth with practical engineering execution
+- Translating ambiguous technical problems into maintainable platform solutions
 
 ## Interests
 
-My research and development interests encompass areas such as:
+- AI Systems Engineering
+- Machine Learning Infrastructure
+- Distributed Systems
+- LLM Evaluation and Observability
+- Production Reliability
+- Data Engineering and Analytics Platforms
+- Network Science and Graph Analysis
+- Applied Machine Learning
 
-- Modeling of complex systems.
-- Artificial intelligence and machine learning.
-- Network science and graph analysis.
-- Software development and web applications.
+## Academic Work
+
+My academic and research work remains a core part of my engineering foundation. You can explore my peer-reviewed output in [Publications](/publications/) and my citation profile on [Google Scholar](https://scholar.google.com/citations?user=tiIUyC8AAAAJ&hl=es).
+{: .text-justify}
 
 ## Get in Touch
 
