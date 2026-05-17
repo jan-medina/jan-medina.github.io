@@ -22,6 +22,14 @@ My work connects software engineering, data infrastructure, and machine learning
 I currently work as a Tech Lead and Engineer focused on distributed data systems, analytics infrastructure, and scalable platform engineering at [Brand Guarde](https://www.brandguarde.com/).
 {: .text-justify}
 
+
+## Recruiter Quick View
+
+- **Current role:** Tech Lead and Engineer (Distributed Data + AI Platform Engineering)
+- **Core strengths:** Scalable backend/data systems, ML infrastructure, observability, production reliability
+- **Research signal:** Peer-reviewed publications in network modeling and computational science
+- **Best pages to review:** [CV](/cv/), [Publications](/publications/), and [Google Scholar](https://scholar.google.com/citations?user=tiIUyC8AAAAJ&hl=es)
+
 ## Current Focus
 
 - AI Systems Engineering
