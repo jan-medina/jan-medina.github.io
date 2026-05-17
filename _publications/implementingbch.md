@@ -1,7 +1,7 @@
 ---
 title: "Implementation of an algorithm to compute the strong apparent distance of bivariate codes"
 collection: publications
-permalink: /publication/estimating
+permalink: /publication/implementingbch
 date: 2019-01-01
 venue: 'Journal of Physics: Conference Series'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1742-6596/1160/1/012012/meta'
@@ -10,5 +10,5 @@ citation: 'Bueno-Carreño, D. H., & López, J. M. (2019, January). Implementatio
 
 
 ## Abstract
-The BCH bound is the oldest lower bound for the minimum distance of a cyclic code. The study of this bound and its generalizations are classical topics, which includes the study of the very well-known family of BCH codes. In 1970, P. Camion extended the notion of BCH bound to the family of abelian codes by introducing the apparent distance of polynomials. Camion showed that the minimum value of the apparent distance of certain polynomials associated to codewords is less than or equal to the minimum distance of the code. The mentioned minimum value is known as the apparent distance of an abelian code. In 2016, Bernal-Bueno-Simón introduced the notion of strong apparent distance of polynomials and hypermatrices and developed an algorithm to compute the minimum strong apparent distance of a hypermatrix based on g-orbits manipulations. In this work, we will present the implementation of an algorithm to compute the strong apparent distance of bivariate codes.
+We implement and analyze an algorithm to compute the strong apparent distance of bivariate codes, a quantity linked to lower bounds on minimum distance in abelian-code families. Building on the extension from classical BCH bounds to apparent-distance formulations, the work operationalizes the hypermatrix-based procedure introduced for strong apparent distance computation. Our implementation translates the theoretical construction into an executable workflow suitable for experimentation and reproducibility. This provides a practical tool for researchers working on coding-theory bounds and algorithmic evaluation of structured codes.
 {: .text-justify}
